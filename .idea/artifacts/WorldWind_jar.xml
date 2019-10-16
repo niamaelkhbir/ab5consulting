@@ -1,0 +1,96 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldWind:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="WorldWind.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="WorldWind" />
+      <element id="library" level="project" name="apidocs" />
+      <element id="library" level="project" name="experimental" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/xalan-2.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/httpmime-4.5.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/commons-net-3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/htmlunit-2.35.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/httpcore-4.4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/xml-apis-1.4.01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/commons-text-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/httpclient-4.5.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/serializer-2.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/commons-lang3-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/xercesImpl-2.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/neko-htmlunit-2.35.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/htmlunit-core-js-2.35.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/htmlunit-cssparser-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/jetty-io-9.4.16.v20190411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/jetty-xml-9.4.16.v20190411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/jetty-http-9.4.16.v20190411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/jetty-util-9.4.16.v20190411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/jetty-client-9.4.16.v20190411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/websocket-api-9.4.16.v20190411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/websocket-client-9.4.16.v20190411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/internship/htmlunit-2.35.0-bin/htmlunit-2.35.0/lib/websocket-common-9.4.16.v20190411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gdal.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jogl" />
+      <element id="library" level="project" name="gdal" />
+      <element id="library" level="project" name="junit4" />
+      <element id="library" level="project" name="lib" />
+      <element id="file-copy" path="$PROJECT_DIR$/101512624SADFZ446651.ser" />
+      <element id="file-copy" path="$PROJECT_DIR$/build.macros.xml" />
+      <element id="file-copy" path="$PROJECT_DIR$/67733291_369225237119315_3802974806513549312_n.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/build.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/ISSUE_TEMPLATE.md" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen.LICENSE.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl.README.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen-rt.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl-all-natives-windows-amd64.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen-rt.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl_mobile.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen-rt-natives-linux-amd64.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl-all.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/Design and Coding Guidelines.html" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl-all-natives-windows-i586.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen-rt-natives-windows-i586.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/gdal.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/GDAL_README.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl-all-natives-macosx-universal.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen-rt-natives-linux-i586.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <element id="file-copy" path="$PROJECT_DIR$/build.xml" />
+      <element id="file-copy" path="$PROJECT_DIR$/junit-4.5.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen-rt-natives-macosx-universal.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen-rt-natives-windows-amd64.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl.LICENSE.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl-all-natives-linux-i586.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl-all-natives-linux-amd64.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl_desktop.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/libjogl_mobile.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/WorldWind.iml" />
+      <element id="file-copy" path="$PROJECT_DIR$/WebView64.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/libwebview.jnilib" />
+      <element id="file-copy" path="$PROJECT_DIR$/nativewindow_win32.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/logging.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/README_DEVELOPER.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/VPF_README.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/libnewt.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/newt.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/testPlot.py" />
+      <element id="file-copy" path="$PROJECT_DIR$/vpf-symbols.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/pyScripts.py" />
+      <element id="file-copy" path="$PROJECT_DIR$/nativewindow_awt.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/WebView32.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/libnativewindow_x11.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/PULL_REQUEST_TEMPLATE.md" />
+      <element id="file-copy" path="$PROJECT_DIR$/LICENSE.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/run-demo.bat" />
+      <element id="file-copy" path="$PROJECT_DIR$/libjogl_desktop.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/run-demo.bash" />
+      <element id="file-copy" path="$PROJECT_DIR$/libnativewindow_awt.so" />
+    </root>
+  </artifact>
+</component>
