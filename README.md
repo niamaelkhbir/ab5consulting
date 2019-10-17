@@ -6,4 +6,6 @@ The algorithmic part of the project is done in language Java, since the latter a
 when the general principles of software architecture.
 The scientific calculations part is done in language Python, since it provides libraries of calculations and
 visualization of very rich data and flexible, all this in addition to being a fast language in in terms of calculation time.
-The main window is based on Nasa WorldWind API. For more details, see: https://github.com/NASAWorldWind
+The main window is based on Nasa WorldWind API. 
+For more details, see: https://github.com/NASAWorldWind
+
