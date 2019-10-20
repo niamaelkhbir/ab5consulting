@@ -1,6 +1,6 @@
 # Ab5-Consulting
 Ab5 Consulting project was the subject of my second year internship in my engineering school (master1).
-Ab5 Consulting project is about creating an application of simulation of a network of telecommunications containing
+Ab5 Consulting project was about creating a software that simulate a telecommunications network containing
 several nodes such as satellites, earth stations... 
 The product is be presented as Java software,extension.jar, and equipped with a graphical interface(GUI).
 The algorithmic part of the project is done in language Java, since the latter allows a strong structuring of the code.
